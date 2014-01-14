@@ -1,0 +1,109 @@
+.box {
+	border: 50px gray;
+	padding: 20px;
+} 
+
+.header {
+	border: 1px white;
+	font-family: 'Buda', cursive;
+
+}
+
+.header * {
+	vertical-align: middle;
+}
+
+body, html {
+	margin:0;
+	padding:0;
+
+}
+.container {
+	margin: 0 auto;
+	background: white;
+	height: 100px;
+	padding-top: 20px;
+
+}
+
+h1 {
+	display: inline-block;
+	padding-left: 50px;
+}
+
+ul {
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 200px
+}
+
+
+.Links {
+	font-size: 18px;
+	color: gray;	
+	display: inline;
+	padding: 10px;
+}
+
+.mainbanner {
+	 margin: 0;
+	 height: 500px;
+	 width: 960px;
+  	 background-color: rgba(52, 99, 221, 0.79);
+  	 background-image: url("ShaneLiveWeb.jpg");
+  	 padding-left: 0;
+  	}
+
+
+.aboutbanner {
+	 margin: 0;
+	 height: 500px;
+	 width: 960px;
+	 background-color: rgba(128, 128, 128, 0.18);
+	 
+}
+
+h2 {
+	font-family: 'Buda', cursive;
+	vertical-align: middle;
+	padding-top: 40px;
+	padding-left: 448px;
+	display: inline-block;
+}
+
+
+p {
+	font-family: 'Buda', cursive;
+	vertical-align: middle;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.musicbanner {
+	 margin: 0;
+	 height: 500px;
+	 width: 960px;
+	 background-color: rgba(71, 145, 61, 0.55);
+}
+
+h3 {
+	font-family: 'Buda', cursive;
+	vertical-align: middle;
+	padding-top: 40px;
+	padding-left: 448px;
+	display: inline-block;
+}
+
+.photosbanner {
+	 margin: 0;
+	 height: 500px;
+	 width: 960px;
+	 background-color: rgba(82, 92, 87, 0.55);
+	}
+
+	.videosbanner {
+		margin: 0;
+	 	height: 540px;
+	 	width: 960px;
+	 }
+
